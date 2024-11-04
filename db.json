@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "profile": "/profile.png",
+      "name": "Ali",
+      "name_arabic": "علي",
+      "department": "IT",
+      "department_arabic": "تكنولوجيا المعلومات",
+      "designation": "Developer",
+      "designation_arabic": "مطور",
+      "bio_link": "link1",
+      "email": "ali.ahmed001@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Sara",
+      "name_arabic": "سارة",
+      "department": "HR",
+      "department_arabic": "الموارد البشرية",
+      "designation": "Manager",
+      "designation_arabic": "مدير",
+      "bio_link": "link2",
+      "email": "sara.khan002@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Omar",
+      "name_arabic": "عمر",
+      "department": "IT",
+      "department_arabic": "تكنولوجيا المعلومات",
+      "designation": "Developer",
+      "designation_arabic": "مطور",
+      "bio_link": "link3",
+      "email": "omar.bashir003@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Aisha",
+      "name_arabic": "عائشة",
+      "department": "Marketing",
+      "department_arabic": "التسويق",
+      "designation": "Executive",
+      "designation_arabic": "تنفيذي",
+      "bio_link": "link4",
+      "email": "aisha.ali004@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Usman",
+      "name_arabic": "عثمان",
+      "department": "Finance",
+      "department_arabic": "المالية",
+      "designation": "Accountant",
+      "designation_arabic": "محاسب",
+      "bio_link": "link5",
+      "email": "usman.shaikh005@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Fatima",
+      "name_arabic": "فاطمة",
+      "department": "IT",
+      "department_arabic": "تكنولوجيا المعلومات",
+      "designation": "Developer",
+      "designation_arabic": "مطور",
+      "bio_link": "link6",
+      "email": "fatima.zafar006@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Yasir",
+      "name_arabic": "ياسر",
+      "department": "IT",
+      "department_arabic": "تكنولوجيا المعلومات",
+      "designation": "Developer",
+      "designation_arabic": "مطور",
+      "bio_link": "link7",
+      "email": "yasir.hussain007@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Noor",
+      "name_arabic": "نور",
+      "department": "HR",
+      "department_arabic": "الموارد البشرية",
+      "designation": "Executive",
+      "designation_arabic": "تنفيذي",
+      "bio_link": "link8",
+      "email": "noor.jamal008@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Bilal",
+      "name_arabic": "بلال",
+      "department": "IT",
+      "department_arabic": "تكنولوجيا المعلومات",
+      "designation": "Tester",
+      "designation_arabic": "مختبر",
+      "bio_link": "link9",
+      "email": "bilal.ansari009@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Laila",
+      "name_arabic": "ليلى",
+      "department": "Marketing",
+      "department_arabic": "التسويق",
+      "designation": "Manager",
+      "designation_arabic": "مدير",
+      "bio_link": "link10",
+      "email": "laila.siddiqi010@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Hasan",
+      "name_arabic": "حسن",
+      "department": "Finance",
+      "department_arabic": "المالية",
+      "designation": "Analyst",
+      "designation_arabic": "محلل",
+      "bio_link": "link11",
+      "email": "hasan.mir011@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Zara",
+      "name_arabic": "زارا",
+      "department": "IT",
+      "department_arabic": "تكنولوجيا المعلومات",
+      "designation": "Developer",
+      "designation_arabic": "مطور",
+      "bio_link": "link12",
+      "email": "zara.naseer012@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Kamal",
+      "name_arabic": "كمال",
+      "department": "IT",
+      "department_arabic": "تكنولوجيا المعلومات",
+      "designation": "Designer",
+      "designation_arabic": "مصمم",
+      "bio_link": "link13",
+      "email": "kamal.abbas013@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Mariam",
+      "name_arabic": "مريم",
+      "department": "Finance",
+      "department_arabic": "المالية",
+      "designation": "Manager",
+      "designation_arabic": "مدير",
+      "bio_link": "link14",
+      "email": "mariam.hayat014@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Faisal",
+      "name_arabic": "فيصل",
+      "department": "Marketing",
+      "department_arabic": "التسويق",
+      "designation": "Executive",
+      "designation_arabic": "تنفيذي",
+      "bio_link": "link15",
+      "email": "faisal.zahid015@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Rania",
+      "name_arabic": "رانية",
+      "department": "HR",
+      "department_arabic": "الموارد البشرية",
+      "designation": "Manager",
+      "designation_arabic": "مدير",
+      "bio_link": "link16",
+      "email": "rania.qasim016@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Hamza",
+      "name_arabic": "حمزة",
+      "department": "IT",
+      "department_arabic": "تكنولوجيا المعلومات",
+      "designation": "Developer",
+      "designation_arabic": "مطور",
+      "bio_link": "link17",
+      "email": "hamza.ali017@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Zain",
+      "name_arabic": "زين",
+      "department": "IT",
+      "department_arabic": "تكنولوجيا المعلومات",
+      "designation": "Analyst",
+      "designation_arabic": "محلل",
+      "bio_link": "link18",
+      "email": "zain.malik018@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Saba",
+      "name_arabic": "صبا",
+      "department": "Marketing",
+      "department_arabic": "التسويق",
+      "designation": "Executive",
+      "designation_arabic": "تنفيذي",
+      "bio_link": "link19",
+      "email": "saba.jameel019@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Faraz",
+      "name_arabic": "فراز",
+      "department": "Finance",
+      "department_arabic": "المالية",
+      "designation": "Analyst",
+      "designation_arabic": "محلل",
+      "bio_link": "link20",
+      "email": "faraz.raza020@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Nadia",
+      "name_arabic": "نادية",
+      "department": "IT",
+      "department_arabic": "تكنولوجيا المعلومات",
+      "designation": "Tester",
+      "designation_arabic": "مختبر",
+      "bio_link": "link21",
+      "email": "nadia.asim021@gmail.com"
+    },
+    {
+      "profile": "/profile.png",
+      "name": "Adnan",
+      "name_arabic": "عدنان",
+      "department": "HR",
+      "department_arabic": "الموارد البشرية",
+      "designation": "Executive",
+      "designation_arabic": "تنفيذي",
+      "bio_link": "link22",
+      "email": "adnan.yousuf022@gmail.com"
+    }
+  ]
+}
